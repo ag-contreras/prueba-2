@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Rack para bobinas de cobre",
+        "descripcion": "Rack transportable para bobinas de cobre, en este proyecto participe como diseñador del modelo 3D y los planos de fabricación para la multinacional Nexans.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/4080337c-2836-4568-a640-832e6c448f62",
+        "fotos":"https://github.com/user-attachments/assets/4080337c-2836-4568-a640-832e6c448f62",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Auto electrico solar",
+        "descripcion": "Trabajo realizado para el grupo V-Solar, donde participe como diseñador desarollando diseños 3D del chasis del auto solar y simulaciones de fuerza para su posterior fabricación.",
+        "fecha": "2022",
+        "signo": "digital",
+        "foto": "https://github.com/user-attachments/assets/bf1f0906-9f51-43df-9d6e-a53f1828acfd",
+        "fotos": "https://github.com/user-attachments/assets/bf1f0906-9f51-43df-9d6e-a53f1828acfd",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "E-Textile",
+        "descripcion": "Trabajo de investigación realizado para Aalto University en calidad de investigador visitante durante un semestre. Me desempeñe en el Smart Wearables Lab desarrollando este prototipo preeliminar de una manga que permite sensar angulo mediante textiles conductivos en conjunto con machine learning.",
+        "fecha": "2023",
+        "signo": "electronica",
+        "foto": "https://github.com/user-attachments/assets/7ce3c347-4fa0-41af-bed6-95a492bc15b3",
+        "fotos": "hhttps://github.com/user-attachments/assets/7ce3c347-4fa0-41af-bed6-95a492bc15b3",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Lavadora de gases industriales",
+        "descripcion": "Trabajo realizado para la start-up GOTA, que necesitaba realizar animaciones, modelos 3D y renders de su tecnologia de lavado de gases industrailes. Posteriormente ganaron el fondo de StarUp Ciencias.",
+        "fecha": "2022",
+        "signo": "digital",
+        "foto": "https://github.com/user-attachments/assets/60b2a525-1d54-427a-b6bf-78e9d7a30729",
+        "fotos": "https://github.com/user-attachments/assets/60b2a525-1d54-427a-b6bf-78e9d7a30729",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Lámpara Blok I",
+        "descripcion": "Trabajo realizado para Estructuras y Materiales, donde se debia diseñar y fabricar una lampara compuestra por 3 materiales distintos.",
+        "fecha": "2021",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/7304efe1-a0ce-4662-8360-f8cbe9a2dd63",
+        "fotos": "https://github.com/user-attachments/assets/7304efe1-a0ce-4662-8360-f8cbe9a2dd63",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Estación de carga solar",
+        "descripcion": "Trabajo realizado para para el V-Solar, donde diseñe y genere modelos 3D con renders para la posterior fabricación de una estación de carga solar para mobiles de electro movilidad.",
+        "fecha": "2022",
+        "signo": "digital",
+        "foto": "https://github.com/user-attachments/assets/dd50c273-aa22-4d90-8574-ed06c4b99985",
+        "fotos": "https://github.com/user-attachments/assets/dd50c273-aa22-4d90-8574-ed06c4b99985",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Ceramica 3D",
+        "descripcion": "Trabajo realizado para CAD/CAM II, donde diseñe y fabrique una mantequillera francesa mediante la impresión 3D en ceramica grés.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/6653aaf4-24d9-49cd-b3c8-0805308b4486",
+        "fotos": "https://github.com/user-attachments/assets/6653aaf4-24d9-49cd-b3c8-0805308b4486",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Estación Meteorologica",
+        "descripcion": "Trabajo realizado para el BioFab UC, para el control telemetrico de las condiciones climaticas para el cultivo de micelios.",
+        "fecha": "2021",
+        "signo": "electronica",
+        "foto": "https://github.com/user-attachments/assets/ee9bbaff-f5b2-4f71-85f3-28744f6cc95f",
+        "fotos": "https://github.com/user-attachments/assets/ee9bbaff-f5b2-4f71-85f3-28744f6cc95f",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Banco parametrico",
+        "descripcion": "Banco parametrico diseñado y fabricado en el ramo de Estructuras y Materiales mediante fabricación digital.",
+        "fecha": "2021",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/31449689-c5e7-430f-8ff5-02e3fbeb3e10",
+        "fotos": "https://github.com/user-attachments/assets/31449689-c5e7-430f-8ff5-02e3fbeb3e10",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Bio sensores capacitivos",
+        "descripcion": "Trabajo realizado para Sofía Guridi en Aalto University, donde desarrolle la electronica y programación para los sensores creados por Sofía a partir de biomateriales.",
+        "fecha": "2023",
+        "signo": "electronica",
+        "foto": "https://github.com/user-attachments/assets/d4099166-75ca-4663-83c0-f7a832f3b38f",
+        "fotos": "https://github.com/user-attachments/assets/d4099166-75ca-4663-83c0-f7a832f3b38f",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Agro Med",
+        "descripcion": "Dispositivo IOT diseñado para mi proyecto de titulo, que contempla multiples sensores para el sensado y control telemetrico de agua de regadio parapequeños agricultores.",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/6e57a367-b28e-4f11-8c6f-f3875c59aa4a",
+        "fotos": "https://github.com/user-attachments/assets/6e57a367-b28e-4f11-8c6f-f3875c59aa4a",
+        "github": "https://github.com/ag-contreras"
+    },
+    {
+        "nombre": "Reloj Eero",
+        "descripcion": "Trabajo realizado para Taller de Prodcuto, donde en conjunto a mi grupo genere modelos 3D y distintos renders para la visualizacion de el reloj que diseñamos inspirado en el trabajo de Eero Arnio.",
+        "fecha": "2021",
+        "signo": "digital",
+        "foto": "https://github.com/user-attachments/assets/8f4ffae6-50af-4c26-a6fd-640ee088ecf9",
+        "fotos": "https://github.com/user-attachments/assets/8f4ffae6-50af-4c26-a6fd-640ee088ecf9",
+        "github": "https://github.com/ag-contreras"
+    }
+]
